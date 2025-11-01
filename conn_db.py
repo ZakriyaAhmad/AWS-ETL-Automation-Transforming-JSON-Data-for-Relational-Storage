@@ -1,9 +1,9 @@
 import psycopg2
 import sshtunnel
-rds_host = "smartchemist-dev-data-enrichment.crtsxequ0out.us-east-2.rds.amazonaws.com"
+rds_host = "######"
 rds_port = 5432
 rds_user = "postgres"
-rds_password = "P7BzcvKTfwedbHm"
+rds_password = "#####"
 # EC2 credentials
 ec2_host = "127.0.0.1"  # This is because of the local tunnel
 ec2_port = 22
