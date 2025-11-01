@@ -36,7 +36,7 @@ awsconfigfile = '/.aws/credentials'
 sslverification = True
 
 # idpentryurl: The initial url that starts the authentication process.
-idpentryurl = 'https://eadfs.agilent.com/adfs/ls/IdpInitiatedsignon.aspx?LoginToRP=urn:amazon:webservices'
+idpentryurl = '#####'
 
 # Uncomment to enable low level debugging
 # logging.basicConfig(level=logging.DEBUG)
@@ -67,8 +67,8 @@ LOCALTZ = tz.tzlocal()  # gets the local timezone for conversion as Expiration i
 #     print('Please enter Username and Password.')
 #     sys.exit(0)
 
-username = 'agilent\micballa'
-password = 'Fannymapute15$'
+username = '#'
+password = '#'
 
 # Initiate session handler
 session = requests.Session()
