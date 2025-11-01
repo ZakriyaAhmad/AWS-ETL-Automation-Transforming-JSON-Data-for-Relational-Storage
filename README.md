@@ -4,6 +4,11 @@
 
 This project focuses on extracting NoSQL JSON data from Amazon S3, transforming it based on specific requirements, and saving the processed data into Amazon RDS. The purpose of this project is to streamline the data migration process and ensure that data is correctly formatted and stored in a relational database for further analysis and utilization.
 
+## Archiecture: 
+
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/50aaa9df-8809-4921-9ae9-49c09d58ac82" />
+
+
 ## Project Details
 
 ### 1. **Data Extraction**
